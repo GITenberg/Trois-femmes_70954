@@ -1,0 +1,29 @@
+_repo: Trois-femmes_70954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
+description: ''
+gutenberg_issued: '2023-06-09'
+identifiers:
+  gutenberg: '70954'
+language: fr
+pgterms:marc904: https://archive.org/details/troisfemmes00mill
+pgterms:marc905: 20230311233900mille
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bCalmann-Lévy, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Trois femmes
+url: http://www.gutenberg.org/ebooks/70954
